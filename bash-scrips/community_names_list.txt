@@ -1,0 +1,14 @@
+public
+private
+manager
+admin
+Admin
+SNMP
+SYSTEM
+CISCO
+snmp
+solaris
+router
+snmptrap
+network
+adm
